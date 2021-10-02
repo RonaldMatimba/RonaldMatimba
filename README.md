@@ -1,6 +1,6 @@
 [![Header](https://user-images.githubusercontent.com/45875245/135693920-93d58fad-b52d-4673-8049-070768f54b5f.png "Header")]()
 
-# Hello, folks! <img src="https://user-images.githubusercontent.com/45875245/135693929-97ee1012-4d10-44c0-9437-47a41cd889c0.gif" width="30px">
+# Hello, guys! <img src="https://user-images.githubusercontent.com/45875245/135693929-97ee1012-4d10-44c0-9437-47a41cd889c0.gif" width="30px">
 
 My name is Ronald Shingai Matimba and I'm a student in the software developing field. I'm from Zimbabwe, living in Ruwa and currently studying at the University of Zimbabwe. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
