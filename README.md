@@ -1,8 +1,3 @@
-
-
-
-
-
 [![Header](https://user-images.githubusercontent.com/45875245/135693920-93d58fad-b52d-4673-8049-070768f54b5f.png "Header")]()
 
 # Hello, folks! <img src="https://user-images.githubusercontent.com/45875245/135693929-97ee1012-4d10-44c0-9437-47a41cd889c0.gif" width="30px">
@@ -14,8 +9,9 @@ My name is Ronald Shingai Matimba and I'm a student in the software developing f
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-VisualBasic-informational?style=flat&logo=vbasic&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C%2B%2B&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Visual%20Basic-informational?style=flat&logo=Visual-Studio&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
 
@@ -30,17 +26,17 @@ My name is Ronald Shingai Matimba and I'm a student in the software developing f
 
 <!-- icons with padding -->
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter )
+[2.1]: http://i.imgur.com/0o48UoR.png (github )
 
 <!-- icons without padding -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter)
+[2.2]: http://i.imgur.com/9I6NRUm.png (github)
 [3.2]: https://user-images.githubusercontent.com/45875245/135693928-aa0c208a-f455-44f5-838c-1fafe1bf57c4.png (LinkedIn icon without padding)
 
 
-<!-- links to your social media accounts -->
+<!-- links to social media accounts -->
 
 [1]: https://twitter.com/thaKid_zw
 [2]: https://github.com/RonaldMatimba
