@@ -11,6 +11,7 @@ My name is Ronald Shingai Matimba and I'm a student in the software developing f
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C%2B%2B&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Visual%20Basic-informational?style=flat&logo=Visual-Studio&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
